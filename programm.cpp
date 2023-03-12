@@ -5,6 +5,7 @@
 
 int main()
 {
+	int a, b, c, x;
 	setlocale(LC_ALL, "Russian");
 	printf("¬ведите значение а: ");
 	scanf_s("%d", &a);

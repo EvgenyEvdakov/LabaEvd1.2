@@ -15,4 +15,11 @@ int main()
 	scanf_s("%d", &c);
 	printf("¬ведите значение d: ");
 	scanf_s("%d", &x);
+	if (a == x)
+		b = a;
+	if (a != x && a == c)
+		b = 0;
+	if (a != x || a != c)
+		b = 1;
+
 }

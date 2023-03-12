@@ -25,5 +25,5 @@ int main()
 	printf("b = %d\n", b);
 	printf("c = %d\n", c);
 	printf("x = %d\n", x);
-
+	return 0;
 }

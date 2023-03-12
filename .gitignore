@@ -1,33 +1,33 @@
-# Предпосылки
-* .д
+# Prerequisites
+*.d
 
-# Скомпилированные объектные файлы
-* .сло
-* .ло
-* .о
-* .объект
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-# Предварительно скомпилированные заголовки
-* .гч
-* .pch
+# Precompiled Headers
+*.gch
+*.pch
 
-# Скомпилированные динамические библиотеки
-* .so
-* .dylib
-* .dll
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
 
-# Файлы модуля Fortran
-* .мод
-* .смод
+# Fortran module files
+*.mod
+*.smod
 
-# Скомпилированные статические библиотеки
-* .лай
-* .ла
-* .а
-* .lib
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
 
-# Исполняемые файлы
-* .exe
-* .выход
-* .приложение
-* .png
+# Executables
+*.exe
+*.out
+*.app
+*.png
